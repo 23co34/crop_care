@@ -14,12 +14,12 @@ The main goal of CropCare is to provide a simple and accessible way to detect pa
 
 ### Key Features
 
-- 🌿 Papaya leaf disease detection
-- 📷 Image-based prediction
-- 🤖 Deep learning-based classification
-- 🧠 EfficientNet and ConvNeXt models
-- 📊 Training and validation using real-world papaya leaf images
-- 💡 Disease prediction with confidence score
+- Papaya leaf disease detection
+- Image-based prediction
+- Deep learning-based classification
+- EfficientNet and ConvNeXt models
+- Training and validation using real-world papaya leaf images
+- Disease prediction with confidence score
 
 ---
 
