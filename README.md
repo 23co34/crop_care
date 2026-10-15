@@ -1,9 +1,8 @@
 # crop_care
 
 
-Dataset : https://data.mendeley.com/datasets/p997fvf526/2
-
 ## Dataset
+Dataset : https://data.mendeley.com/datasets/p997fvf526/2
 This project uses the **Mendeley BDPapayaLeaf** dataset. 
 *   **Classes:** Anthracnose, BacterialSpot, Curl, Healthy, and RingSpot.
 *   **Setup:** Only the `Original Images` folder is required. The data must be split into an 80/20 training and validation distribution prior to execution.
