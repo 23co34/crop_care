@@ -5,7 +5,7 @@ Dataset : https://data.mendeley.com/datasets/p997fvf526/2
 
 ### Software Requirements
 * **Python:** 3.10 or higher
-* **Core Frameworks:** PyTorch, Torchvision (CUDA-enabled build recommended)[cite: 7]
+* **Core Frameworks:** PyTorch, Torchvision (CUDA-enabled build recommended)
 * **Libraries:**
   * `timm` (PyTorch Image Models for EfficientNet/ConvNeXt)
   * `albumentations` (Heavy field-condition data augmentation)
